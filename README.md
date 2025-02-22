@@ -4,7 +4,7 @@
 ✔ I bring a proactive approach, adaptability, strong teamwork and fast learning to achieve objectives.<br>
 ✔ Experienced Back End Developer proficient in Java, Spring Boot, Kafka, JPA, MySQL, Mongo DB, HTML, CSS, JavaScript, React and Redux. <br>
 ✔ SSR FullStack developer: Engaged with FlexiPaaS, a platform tailored for seamless integration of custom solutions to diverse client needs. <br>
-
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matifigueroa98" alt="matifigueroa98" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://matiasfigueroa.netlify.app/](https://matiasfigueroa.netlify.app/)
