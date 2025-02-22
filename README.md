@@ -1,5 +1,9 @@
 <h1 align="center"><b>Hi , I'm Matías Figueroa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A passionate BackEnd Developer from Argentina.</h3>
+<h5 align="center">A passionate BackEnd Developer from Argentina.</h5>
+
+✔ I bring a proactive approach, adaptability, strong teamwork and fast learning to achieve objectives.<br>
+✔ Experienced Back End Developer proficient in Java, Spring Boot, Kafka, JPA, MySQL, Mongo DB, HTML, CSS, JavaScript, React and Redux.
+✔ SSR FullStack developer: Engaged with FlexiPaaS, a platform tailored for seamless integration of custom solutions to diverse client needs. 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matifigueroa98" alt="matifigueroa98" /></a> </p>
 
